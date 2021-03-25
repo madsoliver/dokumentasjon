@@ -1,10 +1,8 @@
-# Dette er et modul utviklet av [KomplettNettbutikk]
-
 - Trenger du hjelp til oppsett, design eller trenger bistand for å få dette modulet opp og gå?
 - Trenger du hjelp til andre ting med nettbutikken, f.eks. design eller utvidet funksjonalitet?
 - Ønsker du en tryggere og mer effektiv nettbutikkdrift?
 
-## Vi i [KomplettNettbutikk] har over 15 års erfaring med drift av nettbutikk og kan hjelpe deg!
+# Vi i [KomplettNettbutikk] har over 15 års erfaring med drift av nettbutikk og kan hjelpe deg!
 
 - [Priser] for våre løsninger starter på kr. 349 pr. mnd. I de fleste tilfeller er oppsett helt gratis.
 
