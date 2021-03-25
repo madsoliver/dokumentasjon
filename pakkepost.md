@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Pakkepost Etikettutskrift
+# Nettbutikkdrift skal være enkelt og gøy 🚀
 
 Trenger du hjelp til oppsett, design med modulet eller nettbutikken generelt så kan vi sannsynligvis hjelpe deg!
 
