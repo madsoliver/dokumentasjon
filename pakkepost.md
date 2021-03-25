@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nettbutikkdrift skal være enkelt og gøy 🚀
+# Effektiv nettbutikkdrift 🚀
 
 Trenger du hjelp til oppsett, design med modulet eller nettbutikken generelt så kan vi sannsynligvis hjelpe deg!
 
