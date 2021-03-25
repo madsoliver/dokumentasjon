@@ -2,8 +2,5 @@
 layout: default
 ---
 
-## Pakkepost Etikettutskrift
+# Pakkepost Etikettutskrift
 
-_yay_
-
-[back](./)
