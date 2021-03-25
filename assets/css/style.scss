@@ -11,12 +11,17 @@ header .view
 }
 
 .button {
-  background-color: #267CB9; 
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
+    border: 2px solid #267CB9;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 7px 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.button:hover {
+    background-color: #267CB9;
+    color: white;
 }
