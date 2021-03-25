@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 title: KomplettNettbutikk
 description: Vi har over 15 års erfaring med drift av nettbutikk og kan hjelpe deg med din nettbutikk!
 
-logo: [Location of the logo]
+logo: assets/images/logo.svg
 show_downloads: false
 google_analytics: 1234
