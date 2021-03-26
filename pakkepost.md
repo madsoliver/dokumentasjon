@@ -5,9 +5,9 @@ published: true
 
 # Pakkepost modul for PrestaShop 🚀
 
-Trenger du hjelp til oppsett, design med dette modulet eller nettbutikken generelt? Vi er en Norsk leverandør av PrestaShop og kan gjøre det mye enklere for deg.
+Trenger du hjelp med modulet eller din nettbutikk? Vi er en norsk leverandør av PrestaShop og kan gjøre det mye enklere for deg.
 
-[Pris] kr. 349 - 999 pr. mnd. inkl. webhotell, backup, service og support. Som regel er oppsett av ny nettbutikk eller flytting til oss gratis, og er gjort i løpet av en dag. Valgfri designpakke til kr. 1999,- hvor vi skreddersyr for deg.
+[Pris] kr. 349 - 999 pr. mnd. inkl. webhotell, backup, service og support. Som regel er flytting til oss gratis, og er gjort i løpet av en dag. Valgfri designpakke hvis du vil ha en oppfriskning: kr. 1999,- hvor vi skreddersyr for deg.
 
 <a class="button" href="https://www.komplettnettbutikk.no#kontakt">Kontakt oss i dag for en hyggelig prat!</a>
 
