@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-# Installasjonsguide for Pakkepost modul v. 1.0.4 for PrestaShop
+# Installasjonsguide for Pakkepost modul v. 1.0.5 for PrestaShop
 
 ## Krav:
 - PrestaShop 1.7.7.2 (og muligens nyere)
