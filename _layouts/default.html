@@ -22,8 +22,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <p>Vi er koblet opp mot Fiken, Tripletex, Bring, Pakkepost, Prisjakt, Kelkoo, iZettle, Klarna, Nets Easy, Bambora, Facebook, Instagram, LiveChat m.m.</p>
-
-        <a class="button" href="https://www.komplettnettbutikk.no#kontakt">Kontakt oss!</a>
+        {% if page.show_contact_button %}
+          <a class="button" href="https://www.komplettnettbutikk.no#kontakt">Kontakt oss!</a>
+        {% endif %}
 
    
       </header>
