@@ -5,7 +5,7 @@ published: true
 
 # Pakkepost modul for PrestaShop 🚀
 
-Trenger du hjelp til oppsett, design med dette modulet eller nettbutikken generelt så kan vi sannsynligvis hjelpe deg! Vi er koblet opp mot Fiken, Tripletex, Bring, Pakkepost, Prisjakt, Kelkoo, iZettle, Klarna, Nets Easy, Bambora, Facebook, Instagram, LiveChat m.m.
+Trenger du hjelp til oppsett, design med dette modulet eller nettbutikken generelt så kan vi sannsynligvis hjelpe deg!
 
 [Pris] kr. 349 - 999 pr. mnd. inkl. webhotell, backup, service og support. Som regel er oppsett av ny nettbutikk eller flytting til oss gratis, og er gjort i løpet av en dag. Valgfri designpakke til kr. 1999,- hvor vi skreddersyr for deg.
 
