@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: false
 description: Vi har over 15 års erfaring og kan hjelpe deg med din nettbutikk!
-
+markdown: kramdown
 logo: /assets/images/logo.svg
 show_downloads: false
 google_analytics: 1234
