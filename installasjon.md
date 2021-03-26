@@ -25,3 +25,6 @@ published: true
 
 
 5. Etter noen sekunder vil du se at modulet ble installert. Trykk på **Konfigurer** og følg videre instruksjon i modulet.
+
+> Dersom du har utfordringer med installasjon av dette modulet, eller har andre utfordringer eller ønsker med din nettbutikk, [ta kontakt med KomplettNettbutikk](https://www.komplettnettbutikk.no#kontakt) for en uforpliktende prat!
+
