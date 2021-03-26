@@ -1,3 +1,3 @@
 ---
-show_contact_link: true
+show_contact_button: true
 ---
