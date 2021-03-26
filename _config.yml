@@ -5,7 +5,6 @@ markdown: kramdown
 logo: /assets/images/logo.svg
 show_downloads: false
 google_analytics: 1234
-
 prose:
   siteurl: 'https://dokumentasjon.komplettnettbutikk.no'
   media: 'media'
