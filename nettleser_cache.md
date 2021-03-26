@@ -14,5 +14,8 @@ Løsningen er å **slette nettleser-cache**
 Dette betyr helt enkelt at du fjerner den lokale kopien av den nettsiden du er inne på akkurat nå, slik at ny og oppdatert versjon hentes ned.
 
 ## Slik gjør du det:
-- På PC trykker du <kbd>CTRL</kbd>+<kbd>F5</kbd>
-- På Mac trykker du <kbd>SHIFT</kbd>+<kbd>CMD ⌘</kbd>+<kbd>R</kbd>
+Gå til aktuell side.
+
+På PC trykker du <kbd>CTRL</kbd>+<kbd>F5</kbd>
+
+På Mac trykker du <kbd>SHIFT</kbd>+<kbd>CMD ⌘</kbd>+<kbd>R</kbd>
