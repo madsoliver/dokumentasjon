@@ -7,7 +7,7 @@ published: true
 
 ## Krav:
 - PrestaShop 1.7.7.2 (og muligens nyere)
-- Dersom du ikke har denne versjonen av PrestaShop, ta kontakt med KomplettNettbutikk 
+- Dersom du ikke har denne versjonen av PrestaShop, [ta kontakt med KomplettNettbutikk](https://www.komplettnettbutikk.no#kontakt) 
 
 
 ## Steg
