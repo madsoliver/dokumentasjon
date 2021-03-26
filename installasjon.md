@@ -5,12 +5,12 @@ published: true
 
 # Installasjonsguide for Pakkepost modul v. 1.0.4 for PrestaShop
 
-**Krav:**
+## Krav:
 - PrestaShop 1.7.7.2 (og muligens nyere)
 - Dersom du ikke har denne versjonen av PrestaShop, ta kontakt med KomplettNettbutikk 
 
 
-## Steps
+## Steg
 1. Last ned modulets zip-fil
 2. Logg deg inn i PrestaShop kontrollpanel og gå til *Moduler* > *Moduler og Tjenester*
 <br>![Screenshot 2021-03-26 at 13.00.06.png]({{site.baseurl}}/Screenshot 2021-03-26 at 13.00.06.png)
@@ -20,7 +20,7 @@ published: true
 <br>![Screenshot 2021-03-26 at 13.00.27.png]({{site.baseurl}}/Screenshot 2021-03-26 at 13.00.27.png)
 
 
-4. Dra modulet til popupen som kom frem.
+4. Dra modulen til popupen som kom frem.
 <br>![Screenshot 2021-03-26 at 13.00.39.png]({{site.baseurl}}/Screenshot 2021-03-26 at 13.00.39.png)
 
 
