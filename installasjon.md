@@ -1,3 +1,8 @@
+---
+layout: default
+published: true
+---
+
 # Installasjonsguide for Pakkepost modul v. 1.0.4 for PrestaShop
 
 **Krav:**
