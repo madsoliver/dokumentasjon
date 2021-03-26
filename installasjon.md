@@ -18,7 +18,7 @@ published: true
 3. Øverst i høyre hjørne finner du *Last opp en modul* - Trykk på denne.
 <br>![Screenshot 2021-03-16 at 09 14 31](https://user-images.githubusercontent.com/30602638/111285570-92dec000-8641-11eb-92e8-02e53e80fccc.png)
 
-4. Dra module til popupen som kom frem.
+4. Dra modulet til popupen som kom frem.
 <br>![Screenshot 2021-03-16 at 09 14 37](https://user-images.githubusercontent.com/30602638/111285600-9a05ce00-8641-11eb-9c83-f1195196f1de.png)
 
 5. Etter noen sekunder vil du se at modulet ble installert. Trykk på **Konfigurer** og følg videre instruksjon i modulet.
