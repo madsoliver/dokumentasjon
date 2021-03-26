@@ -1,6 +1,7 @@
 ---
 layout: default
 published: true
+hide_contact_button: true
 ---
 
 # Pakkepost modul for PrestaShop 🚀
