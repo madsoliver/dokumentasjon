@@ -4,7 +4,11 @@
 - Logg inn i Tripletex.
 - Selskap > Vår kundeside > Moduler og tilleggstjenester > Huk av API 2.0 og godta vilkårene
 - Selskap > Ansatte > Velg en ansatt > API-TILGANG (i meny øverst på siden) > Ny Nøkkel > Søk etter applikasjon “KomplettNettbutikk og PrestaShop” og velg denne. > Skriv et selvvalgt navn >  Trykk opprett nøkkel
-- Kopier API-nøkkelen som dukker opp og send den til mads@komplettnettbutikk.no
+- Kopier API-nøkkelen som dukker opp og send den til [vår utvikler](mailto:mads@komplettnettbutikk.no?subject=Tripletex)
+
+
+
+[mailto:mads@komplettnettbutikk.no]
 
 **Det er anbefalt at du i Tripletex oppretter en/flere betalingstype for din(e) betalingsløsning(er):**
 - Hvis du allerede har en eller flere betalingstyper for din betalingsmåte så kan du bare sende oss navnet på denne og hoppe over resterende punkter.
