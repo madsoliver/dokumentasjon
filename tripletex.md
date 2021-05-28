@@ -1,7 +1,5 @@
 # Førstegangsoppsett for Tripletex-integrasjon
 
-
-
 **Opprett API-nøkkel:**
 - Logg inn i Tripletex.
 - Selskap > Vår kundeside > Moduler og tilleggstjenester > Huk av API 2.0 og godta vilkårene
