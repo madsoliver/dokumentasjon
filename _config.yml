@@ -14,3 +14,6 @@ prose:
     - /_includes
     - /CNAME
     - /assets
+
+gems:
+  - jekyll-redirect-from
