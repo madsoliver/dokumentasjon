@@ -16,8 +16,6 @@ Uthevet del, altså _sc1234.srv7.snartonline.no_ er ditt midlertidige domenenavn
     2. *Vertsnavn* skal være _www_, velg derettter *TTL* _5 min_, *RR-type* _CNAME_, i *Data* limer du inn ditt midlertidige domene, f.eks. _sc1234.srv7.snartonline.no_
     3. *Vertsnavn* skal være blankt, velg derettter *TTL* _5 min_, *RR-type* _TXT_, i *Data* limer du inn _"v=spf1 a mx include:\_spf.domeneshop.no include:\_spf.snartonline.no ~all"_
 
-**Se eksempel på oppsett:**
-![eksempel.png]({{site.baseurl}}/domene/domeneshop/eksempel.png)
 
 
 
