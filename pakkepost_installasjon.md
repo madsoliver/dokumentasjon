@@ -1,3 +1,3 @@
 ---
-redirect_to: "/modul/pakkepost_installasjon"
+redirect_to: "/modul/pakkepost/installasjon"
 ---
