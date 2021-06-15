@@ -1,3 +1,9 @@
+---
+layout: default
+title: Domene
+has_children: true
+---
+
 # Hvordan koble opp domene mot din nettbutikk
 
 Før du starter med oppsett av ditt domene så finner du ditt midlertidige domenenavn du har fått fra oss, f.eks: https://`sc1234.srv7.snartonline.no`/ 
