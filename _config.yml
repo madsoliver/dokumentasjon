@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme: pmarsceill/just-the-docs
 title: false
 description: Vi har over 15 års erfaring og kan hjelpe deg med din nettbutikk!
 markdown: kramdown
